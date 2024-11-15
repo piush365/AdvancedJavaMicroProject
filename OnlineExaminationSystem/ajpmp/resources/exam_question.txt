@@ -1,0 +1,20 @@
+What is the default value of a boolean variable in Java?;true;false;0;null;false
+Which method is used to print text to the console in Java?;print();println();write();output();println()
+Which keyword is used to define a class in Java?;define;class;create;object;class
+What is the file extension for Java source files?;.java;.class;.exe;.src;.java
+Which of these is not a primitive data type in Java?;int;float;String;char;String
+What is the output of `5 + 2 * 3` in Java?;21;11;10;15;11
+Which keyword is used to inherit a class in Java?;extends;implements;inherits;super;extends
+Which exception is thrown when an array is accessed out of bounds?;NullPointerException;ArrayIndexOutOfBoundsException;ClassCastException;IOException;ArrayIndexOutOfBoundsException
+What is the size of an int in Java?;2 bytes;4 bytes;8 bytes;16 bytes;4 bytes
+What is the entry point of a Java application?;main();start();init();run();main()
+Which operator is used for concatenating strings in Java?;+;*;/;%;+ 
+What is the default value of an object reference variable in Java?;null;0;false;undefined;null
+Which keyword is used to prevent inheritance in Java?;abstract;static;final;protected;final
+How do you declare an array in Java?;int[] arr;;array arr;;int arr[];;arr[] int;;int[] arr;
+Which loop is used when the number of iterations is not known in advance?;for;while;do-while;switch;while
+Which method is used to compare two strings in Java?;equals();compare();compareTo();matches();equals()
+Which package contains the Scanner class in Java?;java.io;java.util;java.lang;java.net;java.util
+What is the output of `Math.sqrt(16)`?;2;3;4;5;4
+What keyword is used to create an instance of a class?;this;class;instance;new;new
+Which method is called automatically when an object is created?;init();constructor();main();new();constructor()
